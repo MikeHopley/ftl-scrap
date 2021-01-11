@@ -21,4 +21,4 @@ Based on the formula discovered by Hexagon, from disassembling the game code. Se
 | Missiles | 1&ndash;2 | 2&ndash;4 | 4&ndash;8 |
 | Drones   | 1         | 1         | 1&ndash;2 |
 
-These are hard-coded and do not vary by sector.
+These are hard-coded and do not vary by sector or difficulty.
