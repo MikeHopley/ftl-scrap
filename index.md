@@ -1,4 +1,4 @@
-## Scrap, Hard difficulty
+## Scrap, hard difficulty
 
 | Sector | Low          | Medium      | High        |
 |:------:|:------------:|:-----------:|:-----------:|
