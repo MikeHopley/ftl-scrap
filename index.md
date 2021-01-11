@@ -15,10 +15,10 @@ Based on the formula discovered by Hexagon, from disassembling the game code. Se
 
 ## Resources
 
-These are hard-coded and do not vary by sector.
-
 | Resource | Low       | Medium    | High      |
 |----------|:---------:|:---------:|-----------|
 | Fuel     | 1&ndash;3 | 2&ndash;4 | 3&ndash;6 |
 | Missiles | 1&ndash;2 | 2&ndash;4 | 4&ndash;8 |
 | Drones   | 1         | 1         | 1&ndash;2 |
+
+These are hard-coded and do not vary by sector.
