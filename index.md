@@ -1,8 +1,4 @@
-# FTL rewards, Hard difficulty
-
-Based on the formula discovered by Hexagon, from disassembling the game code. See his [steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2127539536).
-
-## Scrap
+## Scrap, Hard difficulty
 
 | Sector | Low          | Medium      | High        |
 |:------:|:------------:|:-----------:|:-----------:|
@@ -14,6 +10,8 @@ Based on the formula discovered by Hexagon, from disassembling the game code. Se
 | 6      | 19&ndash;27  | 31&ndash;50 | 50&ndash;60 |
 | 7      | 22&ndash;31  | 36&ndash;58 | 58&ndash;69 |
 | 8      | 25&ndash;35  | 40&ndash;66 | 66&ndash;79 |
+
+Based on the formula discovered by Hexagon, from disassembling the game code. See his [steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2127539536).
 
 ## Resources
 
