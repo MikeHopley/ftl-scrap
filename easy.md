@@ -1,7 +1,5 @@
 ## Scrap, Easy difficulty
 
-See also: [Normal](/ftl-scrap/normal) and [Hard](/ftl-scrap/) tables.
-
 | Sector | Low          | Medium      | High        |
 |:------:|:------------:|:-----------:|:-----------:|
 | 1      | 10&ndash;14  | 16&ndash;27 | 27&ndash;32 |
@@ -12,6 +10,8 @@ See also: [Normal](/ftl-scrap/normal) and [Hard](/ftl-scrap/) tables.
 | 6      | 25&ndash;35  | 40&ndash;66 | 66&ndash;79 |
 | 7      | 28&ndash;39  | 45&ndash;74 | 74&ndash;88 |
 | 8      | 31&ndash;44  | 50&ndash;81 | 81&ndash;97 |
+
+See also: [Normal](/ftl-scrap/normal) and [Hard](/ftl-scrap/) tables.
 
 Based on the formula discovered by Hexagon, from disassembling the game code. See his [steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2127539536).
 
