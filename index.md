@@ -1,4 +1,6 @@
-## Scrap, hard difficulty
+## Scrap, Hard difficulty
+
+See also: [Easy](/easy) and Normal(/normal) tables.
 
 | Sector | Low          | Medium      | High        |
 |:------:|:------------:|:-----------:|:-----------:|
