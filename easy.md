@@ -1,6 +1,6 @@
 ## Scrap, Easy difficulty
 
-See also: [Easy](/easy) and [Normal](/normal) tables.
+See also: [Normal](/ftl-scrap/normal) and [Hard](/ftl-scrap/hard) tables.
 
 | Sector | Low          | Medium      | High        |
 |:------:|:------------:|:-----------:|:-----------:|
