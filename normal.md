@@ -9,7 +9,7 @@
 | 5      | 19&ndash;27  | 31&ndash;50 | 50&ndash;60 |
 | 6      | 22&ndash;31  | 36&ndash;58 | 58&ndash;69 |
 | 7      | 25&ndash;35  | 40&ndash;66 | 66&ndash;79 |
-| 8      | 28&ndash;39  | 45&ndash;74 | 81&ndash;97 |
+| 8      | 28&ndash;39  | 45&ndash;74 | 74&ndash;88 |
 
 
 See also: [Easy](/ftl-scrap/easy) and [Hard](/ftl-scrap/) tables.
