@@ -1,3 +1,5 @@
+[Mike's FTL stuff](https://mikehopley.github.io/Mikes-FTL-stuff/) > Scrap reward values
+
 ## Scrap, Normal difficulty
 
 | Sector | Low          | Medium      | High        |
